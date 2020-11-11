@@ -1,6 +1,6 @@
 variable "resource_group" {
   description = "The name of your Azure Resource Group."
-  default     = "DN-VM-Test"
+  default     = "Jadoo-Vm"
 }
 
 variable "location" {
